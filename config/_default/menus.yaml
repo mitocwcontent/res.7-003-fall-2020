@@ -1,0 +1,5 @@
+leftnav:
+- identifier: external-ba68f19c70d84fc68832437214c2329d
+  name: Online Publication
+  url: https://bravenewplanet.org/
+  weight: 1000
